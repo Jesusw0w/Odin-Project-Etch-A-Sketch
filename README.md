@@ -1,2 +1,3 @@
 # Odin-Project-Etch-A-Sketch
- Create a web Etch A Sketch project
+
+Etch A Sketch with random colors on hover, able to create a grid up to 100x100
